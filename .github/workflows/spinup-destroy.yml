@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace legnakra with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: legnakra-ttt-app
+  AZURE_WEBAPP_NAME: Legnakra-ttt-app
 
 jobs:
   setup-up-azure-resources:
